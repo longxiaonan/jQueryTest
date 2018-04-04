@@ -1,0 +1,241 @@
+2017-09-14 10:59:09.346 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 10:59:18.715 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:00:27.260 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:00:27.352 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [D:\java\eclipseee\123\conf\zookeeper.properties]
+2017-09-14 11:00:27.353 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2017-09-14 11:00:27.355 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[183.63.187.150] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2017-09-14 11:00:29.470 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:00:31.472 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:00:33.473 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:00:35.473 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:00:37.473 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2017-09-14 11:00:37.476 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2017-09-14 11:00:37.477 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2017-09-14 11:00:37.812 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[9ce8d0f4-ec2e-4896-b6a5-cfd692183220], delay[10], period[30]
+2017-09-14 11:00:37.814 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:00:37.815 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2017-09-14 11:00:37.824 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2017-09-14 11:00:37.844 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2017-09-14 11:00:37.899 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2017-09-14 11:00:38.410 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2017-09-14 11:00:38.540 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:00:38.727 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:00:38.728 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2017-09-14 11:00:38.729 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[183.63.187.150] port[2181] timeout[30000]
+2017-09-14 11:00:38.730 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - None
+2017-09-14 11:00:41.541 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2017-09-14 11:00:41.543 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[da0fe0b0-fef0-4812-8dce-fe38521cd532], delay[10], period[5]
+2017-09-14 11:00:41.547 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 申请数据源  VLRMaster
+2017-09-14 11:00:41.550 [main] INFO  c.g.c.s.a.CreateClusterSelectorMgr - SERVER_SELECTOR_CONF [null]
+2017-09-14 11:00:41.551 [main] INFO  c.g.n.c.selector.RandomSelector - 增加（移除）节点[mina#183.63.187.150:9991:-1],选择因子变更为[1]
+2017-09-14 11:00:41.557 [main] DEBUG c.v.d.d.DataSourceAgentCache - Connect URL is : mina#183.63.187.150:9991:-1, scvType is:  9001
+2017-09-14 11:00:41.567 [main] DEBUG c.g.c.s.mina.MinaClientFactoryOne - create mina client factory main
+2017-09-14 11:00:41.567 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR : 0 1 
+2017-09-14 11:00:41.616 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR DONE: 1 1 com.gdcp.common.svcfw.mina.MinaClientFactoryImpl@7b69c6ba
+2017-09-14 11:00:41.664 [NioProcessor-2] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2017-09-14 11:00:41.752 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2017-09-14 11:00:41.753 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2017-09-14 11:00:41.754 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2017-09-14 11:00:41.755 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: true
+2017-09-14 11:00:41.758 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2017-09-14 11:00:41.802 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+2017-09-14 11:00:41.802 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+2017-09-14 11:00:41.803 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2017-09-14 11:00:41.804 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+2017-09-14 11:00:41.807 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+2017-09-14 11:00:41.807 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-09-14 11:00:41.808 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2017-09-14 11:00:41.809 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-09-14 11:00:41.810 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2017-09-14 11:00:41.838 [NioProcessor-2] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetectionLevel: simple
+2017-09-14 11:00:41.840 [main] DEBUG c.v.d.d.DataSourceAgentCache - 申请的数据源ID: c6a2330d-5e0a-4c1b-879d-8b99bb81258b
+2017-09-14 11:00:41.946 [main] DEBUG c.vdp.dqi.datasource.DataSourceAgent - 执行状态: [END] [执行完毕]
+2017-09-14 11:00:41.980 [main] DEBUG c.v.d.d.DataSourceAgentCache - 释放数据源 c6a2330d-5e0a-4c1b-879d-8b99bb81258b
+2017-09-14 11:00:47.813 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:00:47.814 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:01:17.813 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:01:17.814 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:01:47.814 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:01:47.814 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:02:17.815 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:02:17.816 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:02:46.547 [pool-1-thread-2] DEBUG c.v.d.d.DataSourceAgentCache - SOURCE TIME OUT, mina#183.63.187.150:9991:-1 c6a2330d-5e0a-4c1b-879d-8b99bb81258b
+2017-09-14 11:02:46.548 [NioProcessor-2] DEBUG c.v.dqi.datasource.AgentEventHandler - AgentEventHandler........handle_closed.
+2017-09-14 11:02:47.815 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:02:47.816 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:03:17.816 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:03:17.817 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:03:47.817 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:03:47.817 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:04:17.818 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:04:17.818 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:04:35.085 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:04:35.172 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [D:\java\eclipseee\123\conf\zookeeper.properties]
+2017-09-14 11:04:35.174 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2017-09-14 11:04:35.176 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[183.63.187.150] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2017-09-14 11:04:47.818 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286004] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:04:47.818 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:04:53.748 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:04:53.823 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [D:\java\eclipseee\123\conf\zookeeper.properties]
+2017-09-14 11:04:53.825 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2017-09-14 11:04:53.827 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[183.63.187.150] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2017-09-14 11:04:55.948 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:04:57.949 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:04:59.950 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:01.951 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:03.952 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2017-09-14 11:05:03.967 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2017-09-14 11:05:03.974 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2017-09-14 11:05:04.306 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[86ac60c0-7813-4683-a07c-39a37f856f1e], delay[10], period[30]
+2017-09-14 11:05:04.308 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2017-09-14 11:05:04.309 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:05:04.310 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2017-09-14 11:05:04.345 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2017-09-14 11:05:04.364 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2017-09-14 11:05:04.604 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2017-09-14 11:05:04.706 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:05:04.834 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:05:04.835 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2017-09-14 11:05:04.835 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[183.63.187.150] port[2181] timeout[30000]
+2017-09-14 11:05:04.836 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - None
+2017-09-14 11:05:07.709 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2017-09-14 11:05:07.713 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[866bf086-7caa-4630-a98a-f00b006b5e8d], delay[10], period[5]
+2017-09-14 11:05:07.717 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 申请数据源  LB9KB8KG9EENJL457 9001
+2017-09-14 11:05:07.718 [main] DEBUG com.vdp.dqi.datasource.DataSourceMgr - svcType[9001] serverTag[VLR] propertyTag[VLR_QUERY]
+2017-09-14 11:05:07.720 [main] INFO  c.g.c.s.a.CreateClusterSelectorMgr - SERVER_SELECTOR_CONF [CONSISTENT_HASH]
+2017-09-14 11:05:07.723 [main] INFO  c.g.n.c.s.ConsistentHashSelector - 增加节点[mina#183.63.187.150:9991:-1],更新算法
+2017-09-14 11:05:07.812 [main] DEBUG c.v.d.d.DataSourceAgentCache - Connect URL is : mina#183.63.187.150:9991:-1, scvType is:  9001
+2017-09-14 11:05:07.825 [main] DEBUG c.g.c.s.mina.MinaClientFactoryOne - create mina client factory main
+2017-09-14 11:05:07.826 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR : 0 1 
+2017-09-14 11:05:07.889 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR DONE: 1 1 com.gdcp.common.svcfw.mina.MinaClientFactoryImpl@262b2c86
+2017-09-14 11:05:07.972 [NioProcessor-2] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2017-09-14 11:05:07.977 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2017-09-14 11:05:07.977 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2017-09-14 11:05:07.978 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2017-09-14 11:05:07.978 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: true
+2017-09-14 11:05:07.980 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2017-09-14 11:05:07.981 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+2017-09-14 11:05:07.981 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+2017-09-14 11:05:07.981 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2017-09-14 11:05:07.982 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+2017-09-14 11:05:07.984 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+2017-09-14 11:05:07.984 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-09-14 11:05:07.985 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2017-09-14 11:05:07.985 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-09-14 11:05:07.985 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2017-09-14 11:05:08.006 [NioProcessor-2] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetectionLevel: simple
+2017-09-14 11:05:08.009 [main] DEBUG c.v.d.d.DataSourceAgentCache - 申请的数据源ID: 0757f41c-b0d5-4e26-8f6b-7e6c36b66990
+2017-09-14 11:05:08.158 [main] DEBUG c.vdp.dqi.datasource.DataSourceAgent - 执行状态: [END] [执行完毕]
+2017-09-14 11:05:08.159 [main] DEBUG c.v.d.d.DataSourceAgentCache - 释放数据源 0757f41c-b0d5-4e26-8f6b-7e6c36b66990
+2017-09-14 11:05:14.306 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286005] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:05:14.307 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:05:38.805 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:05:38.885 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [D:\java\eclipseee\123\conf\zookeeper.properties]
+2017-09-14 11:05:38.887 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2017-09-14 11:05:38.889 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[183.63.187.150] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2017-09-14 11:05:41.012 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:43.013 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:44.307 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286005] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:05:44.308 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:05:45.016 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:47.017 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:05:49.017 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2017-09-14 11:05:49.018 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2017-09-14 11:05:49.020 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2017-09-14 11:05:49.362 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[2da6d319-80aa-4419-9005-b1197d52d413], delay[10], period[30]
+2017-09-14 11:05:49.364 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2017-09-14 11:05:49.363 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:05:49.366 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2017-09-14 11:05:49.385 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2017-09-14 11:05:49.405 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2017-09-14 11:05:49.662 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2017-09-14 11:05:49.791 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:05:49.903 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:05:49.904 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2017-09-14 11:05:49.904 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[183.63.187.150] port[2181] timeout[30000]
+2017-09-14 11:05:49.904 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - None
+2017-09-14 11:05:52.792 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2017-09-14 11:05:52.795 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[7f61cb1a-ee57-4364-94c5-8fcaf717f1d1], delay[10], period[5]
+2017-09-14 11:05:52.800 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 申请数据源  LB9KB9KG7EENJL303 9001
+2017-09-14 11:05:52.801 [main] DEBUG com.vdp.dqi.datasource.DataSourceMgr - svcType[9001] serverTag[VLR] propertyTag[VLR_QUERY]
+2017-09-14 11:05:52.802 [main] INFO  c.g.c.s.a.CreateClusterSelectorMgr - SERVER_SELECTOR_CONF [CONSISTENT_HASH]
+2017-09-14 11:05:52.806 [main] INFO  c.g.n.c.s.ConsistentHashSelector - 增加节点[mina#183.63.187.150:9991:-1],更新算法
+2017-09-14 11:05:52.825 [main] DEBUG c.v.d.d.DataSourceAgentCache - Connect URL is : mina#183.63.187.150:9991:-1, scvType is:  9001
+2017-09-14 11:05:52.831 [main] DEBUG c.g.c.s.mina.MinaClientFactoryOne - create mina client factory main
+2017-09-14 11:05:52.831 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR : 0 1 
+2017-09-14 11:05:52.893 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR DONE: 1 1 com.gdcp.common.svcfw.mina.MinaClientFactoryImpl@262b2c86
+2017-09-14 11:05:52.940 [NioProcessor-2] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2017-09-14 11:05:52.945 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2017-09-14 11:05:52.946 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2017-09-14 11:05:52.947 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2017-09-14 11:05:52.947 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: true
+2017-09-14 11:05:52.950 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2017-09-14 11:05:52.950 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+2017-09-14 11:05:52.950 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+2017-09-14 11:05:52.951 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2017-09-14 11:05:52.951 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+2017-09-14 11:05:52.957 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+2017-09-14 11:05:52.958 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-09-14 11:05:52.959 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2017-09-14 11:05:52.959 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-09-14 11:05:52.959 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2017-09-14 11:05:52.976 [NioProcessor-2] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetectionLevel: simple
+2017-09-14 11:05:52.979 [main] DEBUG c.v.d.d.DataSourceAgentCache - 申请的数据源ID: c31b1e28-d065-4914-b2ac-b7e9d58e636f
+2017-09-14 11:05:53.054 [main] DEBUG c.vdp.dqi.datasource.DataSourceAgent - 执行状态: [END] [执行完毕]
+2017-09-14 11:05:53.055 [main] DEBUG c.v.d.d.DataSourceAgentCache - 释放数据源 c31b1e28-d065-4914-b2ac-b7e9d58e636f
+2017-09-14 11:06:08.740 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2017-09-14 11:06:08.812 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [D:\java\eclipseee\123\conf\zookeeper.properties]
+2017-09-14 11:06:08.814 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2017-09-14 11:06:08.816 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[183.63.187.150] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2017-09-14 11:06:10.938 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:06:12.939 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:06:14.940 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:06:16.941 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2017-09-14 11:06:18.943 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2017-09-14 11:06:18.947 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2017-09-14 11:06:18.950 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2017-09-14 11:06:19.291 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[4e38fbb1-e38b-4fce-a236-83471e200379], delay[10], period[30]
+2017-09-14 11:06:19.292 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:06:19.292 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2017-09-14 11:06:19.297 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2017-09-14 11:06:19.346 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2017-09-14 11:06:19.377 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2017-09-14 11:06:19.624 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2017-09-14 11:06:19.779 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:06:19.882 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2017-09-14 11:06:19.882 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2017-09-14 11:06:19.882 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[183.63.187.150] port[2181] timeout[30000]
+2017-09-14 11:06:19.883 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - None
+2017-09-14 11:06:22.779 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2017-09-14 11:06:22.781 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[21ed3fb9-7bad-4113-be76-c42c223af9f9], delay[10], period[5]
+2017-09-14 11:06:22.787 [main] INFO  com.vdp.dqi.datasource.DataSourceMgr - 申请数据源  LB9KB8KG2DENJL248 9001
+2017-09-14 11:06:22.788 [main] DEBUG com.vdp.dqi.datasource.DataSourceMgr - svcType[9001] serverTag[VLR] propertyTag[VLR_QUERY]
+2017-09-14 11:06:22.790 [main] INFO  c.g.c.s.a.CreateClusterSelectorMgr - SERVER_SELECTOR_CONF [CONSISTENT_HASH]
+2017-09-14 11:06:22.794 [main] INFO  c.g.n.c.s.ConsistentHashSelector - 增加节点[mina#183.63.187.150:9991:-1],更新算法
+2017-09-14 11:06:22.821 [main] DEBUG c.v.d.d.DataSourceAgentCache - Connect URL is : mina#183.63.187.150:9991:-1, scvType is:  9001
+2017-09-14 11:06:22.827 [main] DEBUG c.g.c.s.mina.MinaClientFactoryOne - create mina client factory main
+2017-09-14 11:06:22.827 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR : 0 1 
+2017-09-14 11:06:22.883 [main] INFO  c.g.c.s.mina.MinaClientFactoryImpl - REGISTER CONNECTOR DONE: 1 1 com.gdcp.common.svcfw.mina.MinaClientFactoryImpl@262b2c86
+2017-09-14 11:06:22.934 [NioProcessor-2] DEBUG i.n.u.i.l.InternalLoggerFactory - Using SLF4J as the default logging framework
+2017-09-14 11:06:22.940 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+2017-09-14 11:06:22.940 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+2017-09-14 11:06:22.941 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+2017-09-14 11:06:22.942 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: true
+2017-09-14 11:06:22.944 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Platform: Windows
+2017-09-14 11:06:22.944 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Java version: 8
+2017-09-14 11:06:22.945 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noUnsafe: false
+2017-09-14 11:06:22.945 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - sun.misc.Unsafe: available
+2017-09-14 11:06:22.946 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noJavassist: false
+2017-09-14 11:06:22.948 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - Javassist: unavailable
+2017-09-14 11:06:22.949 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - You don't have Javassist in your class path or you don't have enough permission to load dynamically generated classes.  Please check the configuration for better performance.
+2017-09-14 11:06:22.949 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMINI~1\AppData\Local\Temp (java.io.tmpdir)
+2017-09-14 11:06:22.950 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2017-09-14 11:06:22.950 [NioProcessor-2] DEBUG i.n.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+2017-09-14 11:06:22.971 [NioProcessor-2] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetectionLevel: simple
+2017-09-14 11:06:22.974 [main] DEBUG c.v.d.d.DataSourceAgentCache - 申请的数据源ID: 850aa96c-4d16-4984-a28f-d9e4c053da99
+2017-09-14 11:06:23.048 [main] DEBUG c.vdp.dqi.datasource.DataSourceAgent - 执行状态: [END] [执行完毕]
+2017-09-14 11:06:23.048 [main] DEBUG c.v.d.d.DataSourceAgentCache - 释放数据源 850aa96c-4d16-4984-a28f-d9e4c053da99
+2017-09-14 11:06:29.292 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286007] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:06:29.294 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2017-09-14 11:06:59.293 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[98524152421286007] SessionTimeout[30000] State[CONNECTED]
+2017-09-14 11:06:59.293 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]

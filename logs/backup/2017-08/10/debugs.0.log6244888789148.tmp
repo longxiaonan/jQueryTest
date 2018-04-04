@@ -1,0 +1,50 @@
+2017-08-10 12:21:58.677 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.709 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.709 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.713 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.713 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.713 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.713 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.713 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.713 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.713 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 1. Old temperature was null. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 111111111111
+2017-08-10 12:21:58.714 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.714 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.715 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.715 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.715 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.715 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.716 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.716 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.716 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.716 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.716 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.716 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.716 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.716 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.716 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.716 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.716 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.716 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.717 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.717 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.717 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.717 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.717 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.717 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.717 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.717 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.717 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
+2017-08-10 12:21:58.717 [main] ERROR Slf4j_Logback -  Temperature set to 55. Old temperature was 1. 
+2017-08-10 12:21:58.717 [main] DEBUG Slf4j_Logback - 1111111111155
+2017-08-10 12:21:58.717 [main] INFO  Slf4j_Logback -  Temperature has risen above 50 degrees. 
