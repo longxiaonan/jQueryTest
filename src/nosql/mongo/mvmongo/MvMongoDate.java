@@ -2,8 +2,6 @@ package nosql.mongo.mvmongo;
 
 import java.util.Date;
 
-import com.gdcp.common.util.date.DateUtil;
-
 /**
  * 某个集合的已经迁移（处理过）的最小、最大的迁移开始时间
  * @author lijian@cstonline.com

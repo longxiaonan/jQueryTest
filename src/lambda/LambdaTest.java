@@ -10,6 +10,7 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 
+import org.junit.Test;
 import org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping;
 
 import entity.User;
@@ -44,22 +45,18 @@ public class LambdaTest {
 		//list转换成steam后通过map操作每个值后, 通过Reduce合并成一个值后返回
 //		streamAndReduce();
 		
+//		mapToIntSum();
 		
-		/*int[] aa  = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29};
+//		filterAndFindAndGet();
+	}
+
+	private static void mapToIntSum() {
+		int[] aa  = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29};
 		aa = new int[]{};
 		List<Integer> primes = Arrays.asList(2, 3, 5, 7, 11, 13, 17, 19, 23, 29);
 		//求和
-		System.out.println(primes.stream().mapToInt((x) -> x).sum());
-		System.out.println(Arrays.stream(aa).sum());
-		
-		List<String> ls = Collections.emptyList();
-		List<String> ll = Collections.emptyList();
-		ls.add("aa");
-		ll.add("bb");
-		System.out.println(ls);
-		System.out.println(ll);*/
-		
-//		filterAndFindAndGet();
+		System.out.println(primes.stream().mapToInt((x) -> x).sum());//129
+		Arrays.stream(aa).forEach(System.out::println);//0
 	}
 	
 	private static void filterAndFindAndGet(){
@@ -94,7 +91,7 @@ public class LambdaTest {
 		System.out.println(map);
 	}
 	
-	
+	@Test
 	private static void streamAndReduce() {
 		// Applying 12% VAT on each purchase
 		// Old way:
@@ -138,6 +135,7 @@ public class LambdaTest {
 		map.put("bbb", "222");
 		map.put("ccc", "333");
 		map.put("ddd", "444");
+		map.forEach((k,v)->System.out.println(k+">>>"+v));
 	}
 
 	private static void setForEach() {
