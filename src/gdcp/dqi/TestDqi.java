@@ -12,6 +12,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.gdcp.common.config.SpringContextUtil;
+import com.gdcp.common.redis.RedisConst;
+import com.gdcp.common.redis.client.RedisClient;
+import com.gdcp.common.redis.client.RedisClientCluster;
 import com.gdcp.data.DataObj;
 import com.gdcp.data.cmd.QueryCmdKey;
 import com.gdcp.dqi.GBCommandInterface;
@@ -32,7 +36,8 @@ public class TestDqi {
 		// getHisGpsInfo();
 		// getHisData();
 //		getRawData();
-		 sendCmd();
+//		 sendCmd();
+//		connectState("LB9KB8KGXGENJL227");
 //		getRtinfo();
 //		getHisRtInfo();
 
@@ -80,13 +85,17 @@ public class TestDqi {
 		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
 				new String[] { "classpath*:META-INF/spring/*.xml", "classpath*:config/spring/*.xml" });
 		
-		Long start = System.currentTimeMillis();
-		DataObj carRtInfo = query.getRtInfo("LY16C1231H0001111");
-		System.out.println(carRtInfo);
-		Long end = System.currentTimeMillis();
+//		Long start = System.currentTimeMillis();
+//		DataObj carRtInfo = query.getRtInfo("LB9KB8KGXGENJL227");
+//		System.out.println(carRtInfo);
+//		Long end = System.currentTimeMillis();
+//		
+//		Optional.ofNullable(carRtInfo).map(n -> n.getJSONObj("VEHICLE")).map(m -> m.getString("SOC")).orElse(null);
+//		String mileageStr = Optional.ofNullable(carRtInfo).map(n -> n.getJSONObj("VEHICLE")).map(m -> m.getString("MILEAGE")).orElse(null);
 		
-		Optional.ofNullable(carRtInfo).map(n -> n.getJSONObj("VEHICLE")).map(m -> m.getString("SOC")).orElse(null);
-		String mileageStr = Optional.ofNullable(carRtInfo).map(n -> n.getJSONObj("VEHICLE")).map(m -> m.getString("MILEAGE")).orElse(null);
+//		Query query = new Query();
+//		boolean online = query.isOnline("LB9KB8KGXGENJL227");
+//		System.out.println(online);
 	}
 
 	private static void getRawData() throws Exception {
@@ -122,7 +131,7 @@ public class TestDqi {
 //			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("LB9KA8KJ2FENJL039", aa);
 //			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("60100000117290128", aa);
 //			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("LB9KB9KJ5EENJL426", aa);
-			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("LY16C1231H0001111", aa);
+			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("LB9KB8KGXGENJL227", aa);
 //			DataObj queryParamValueOfDevice = command.queryParamValueOfDevice("LB9KB8KE2DENJL121", aa);
 			System.out.println(queryParamValueOfDevice);
 			// DataObj obj = command.setParamValueToDevice("60100000117361236",
@@ -170,6 +179,27 @@ public class TestDqi {
 		}
 	}
 
+	public static boolean connectState(String devcode) throws Exception {
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
+				new String[] { "classpath*:META-INF/spring/*.xml", "classpath*:config/spring/*.xml", "classpath*:config/redis/*.xml"});
+		// 从VLR查询车机是否在线
+		// DataSourceAgent agent =
+		// DataSourceMgr.getInstance().getSource(devcode,
+		// SvcTypeConst.VLR_QUERY.getSvcType());
+		// VlrAgent vlrAgent = new VlrAgent(agent);
+		// return vlrAgent.isOnline(devcode);
+
+		// 2018-03-14 longxn改成从redis查询车机是否在线
+		DataObj dataObj =  new DataObj();
+		dataObj.put("ONLINE", false);
+//		dataObj.put("ONLINE", true);
+			RedisClient redisClient = (RedisClientCluster) SpringContextUtil.getBean(RedisConst.REDIS_CLIENT_CLUSTER);
+			String objFromRedis = redisClient.hget(RedisConst.VLR_RT_INFO, devcode);
+				dataObj = DataObj.formJSONString(objFromRedis);
+				boolean booleanValue = dataObj.getData().getBooleanValue("ONLINE");
+		return booleanValue;
+	}
+	
 	private static void getOnlineDevcodeAll() throws Exception {
 		List<DataObj> onlineDevcodeAll = query.getOnlineDevcodeAll();
 		System.out.println(">>>>>>>>>>>>>>>>>>>>>>getOnlineDevcodeAll");

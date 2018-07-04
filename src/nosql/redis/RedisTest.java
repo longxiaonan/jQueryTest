@@ -36,7 +36,8 @@ public class RedisTest {
 		// testShared();
 //		 testCluster();
 		// testPing();
-		testPipeline();
+//		testPipeline();
+		System.out.println(RedisUtils.getClusterClient());
 	}
 
 	private static void testPing() {

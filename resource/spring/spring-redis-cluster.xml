@@ -91,4 +91,7 @@
 		<property name="redisMsgPubSubListener" ref="redisMsgPubSubListener" />
 	</bean>
 
+	<bean id="redisUtils" class="nosql.redis.RedisUtils" init-method="getInstance">
+        <property name="clusterClient" ref="redisClientCluster"></property>
+    </bean>
 </beans>

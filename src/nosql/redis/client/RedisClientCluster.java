@@ -1,8 +1,11 @@
 package nosql.redis.client;
 
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
+import java.util.Optional;
 import java.util.Set;
 
 import nosql.redis.listener.RedisMsgPubSubListener;
@@ -253,14 +256,19 @@ public class RedisClientCluster implements RedisClient{
 
 	@Override
 	public Long lpush(String key, List<String> list) {
-		// TODO Auto-generated method stub
-		return null;
+		Objects.requireNonNull(list, "lpush的值参数不能为空");
+		Long count = 0L;
+		for (String value : list) {
+			jedisCluster.lpush(key, value);
+			count ++ ;
+		}
+		return count;
 	}
 
 	@Override
-	public Long lpush(String key, String... string) {
-		// TODO Auto-generated method stub
-		return null;
+	public Long lpush(String key, String... values) {
+		Long lpush = lpush(key, Arrays.asList(values));
+		return lpush;
 	}
 
 	@Override
@@ -313,14 +321,13 @@ public class RedisClientCluster implements RedisClient{
 
 	@Override
 	public String rpop(String key) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
 	public String brpop(String key) {
-		// TODO Auto-generated method stub
-		return null;
+		List<String> brpop = this.jedisCluster.brpop(0, key);//[listenerTest, vin1]
+		return Optional.ofNullable(brpop).map(a -> a.get(1)).orElse(null);
 	}
 
 	@Override

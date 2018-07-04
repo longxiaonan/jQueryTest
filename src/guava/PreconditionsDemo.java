@@ -36,7 +36,7 @@ public class PreconditionsDemo {
 	}
 
 	private static double sqrt(double input) {// IllegalArgumentException
-		// 通过Preconditions实现参数合法性判断, 不合法则抛出异常
+		// 通过Preconditions实现参数合法性判断, 为false, 则抛出异常
 		Preconditions.checkArgument(input > 0.0, "Illegal Argument passed: Negative value %s.", input);
 		// 通过Optional+filter实现参数合法性判断, 不合法则抛出异常
 		Optional.ofNullable(input).filter(i -> i > 0).orElseThrow(() -> new IllegalArgumentException("sdf"));

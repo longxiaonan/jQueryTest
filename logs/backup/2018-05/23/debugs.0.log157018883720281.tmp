@@ -1,0 +1,1115 @@
+2018-04-12 15:14:32.249 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:14:32.259 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:14:32.260 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:14:32.261 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:14:32.261 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:14:32.261 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:14:32.262 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:14:32.266 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:14:32.270 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:14:32.270 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:14:32.271 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:14:32.272 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:20:59.669 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:20:59.672 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:20:59.672 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:20:59.673 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:20:59.673 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:20:59.673 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:20:59.674 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:20:59.676 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:20:59.679 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:20:59.680 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:20:59.680 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:20:59.680 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:21:33.889 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:21:33.891 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:21:33.892 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:21:33.892 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:21:33.892 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:21:33.892 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:21:33.893 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:21:33.895 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:21:33.898 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:21:33.898 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:21:33.899 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:21:33.899 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:28:52.714 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:28:52.716 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:28:52.716 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:28:52.717 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:28:52.717 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:28:52.717 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:28:52.718 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:28:52.721 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:28:52.724 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:28:52.724 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:28:52.725 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:28:52.725 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:30:15.067 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:30:15.069 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:30:15.069 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:30:15.070 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:30:15.070 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:30:15.070 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:30:15.071 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:30:15.074 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:30:15.077 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:30:15.077 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:30:15.078 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:30:15.078 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:30:18.208 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2018-04-12 15:30:27.355 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [C:\Users\longxn\git\simpletest\conf\zookeeper.properties]
+2018-04-12 15:30:27.360 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2018-04-12 15:30:27.363 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[120.78.221.1] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2018-04-12 15:30:29.675 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:30:31.679 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:30:33.683 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:30:35.686 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:30:37.689 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2018-04-12 15:30:37.692 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2018-04-12 15:30:37.701 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2018-04-12 15:30:37.729 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[efee181d-c932-4a3a-903f-9fe5dce0e8c6], delay[10], period[30]
+2018-04-12 15:30:37.732 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2018-04-12 15:30:37.740 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:30:37.743 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2018-04-12 15:30:37.772 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2018-04-12 15:30:37.801 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2018-04-12 15:30:38.173 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2018-04-12 15:30:38.290 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 15:30:38.399 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 15:30:38.400 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2018-04-12 15:30:38.400 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[120.78.221.1] port[2181] timeout[30000]
+2018-04-12 15:30:38.400 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event getType [None]
+2018-04-12 15:30:41.292 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2018-04-12 15:30:41.310 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[b880a3fd-b285-48f0-8484-22d4bc0d169e], delay[10], period[5]
+2018-04-12 15:30:45.384 [main] ERROR c.gdcp.dqi.datasource.DataSourceMgr - 解析[LB9KB8KGXGENJL227]的redis数据为[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.89944399999999,"STATE":0,"ISNS":0,"LATITUDE":32.024723,"ISEW":0},"DATATAG":"RTINFO","CELL_NUM":1,"VOLTAGE":598,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.89944399999999,"MILEAGE":42570,"FLOW":0,"SPEED":0,"GEAR_IS_BRAKE":0,"GEAR_VALUE":0,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523518222838,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":220,"MOTOR_TORQUE":0,"MOTOR_FLOW":-1,"MOTOR_ID":1,"CTRL_TEMPERATURE":53,"MOTOR_RPM":0,"MOTOR_TEMPERATURE":46,"MOTOR_STATE":3}]},"DC_STATE":0,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,24,24,24,24,24,24,22,24,24,24,22,24,24,24,23,24,24,22,22,24,24,22,22,24,24,23,22,24,24,24,24,24,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":335479,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":598.2,"V_STATE":2,"SOC":82,"MILEAGE":42570,"BRAKE_STATE":0,"AP_TRAVEL":0,"FLOW":0,"SPEED":0,"RESISTOR":727,"GEAR_IS_BRAKE":0,"GEAR_VALUE":0,"GEAR_IS_DRIVE":0,"DC_STATE":0,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":2,"SOC":82,"LOGIN_SN":4,"TIME":1523518220000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":598.2,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.319,3.321,3.323,3.322,3.322,3.322,3.322,3.322,3.321,3.324,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.324,3.324,3.325,3.325,3.325,3.327,3.326,3.325,3.324,3.322,3.323,3.324,3.324,3.324,3.323,3.323,3.324,3.322,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.323,3.323,3.324,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.324,3.323,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.323,3.324,3.323,3.324,3.324,3.324,3.323,3.325,3.325,3.326,3.327,3.326,3.327,3.326,3.325,3.321,3.322,3.322,3.323,3.323,3.323,3.322,3.323,3.322,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.321,3.321,3.322,3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.322,3.323,3.322,3.322,3.323,3.322,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.323,3.322,3.322,3.322,3.323,3.322,3.323,3.322,3.321,3.321,3.321,3.321,3.321,3.322,3.321,3.321,3.321]}],"CELL_ID":1,"UNITS":180,"FLOW":0}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.321,"MAX_UNIT_VOLTAGE":3.327,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":11,"MIN_UNIT_TEMPERATURE":22,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":6,"MAX_VOLTAGE_UNIT":6,"MIN_VOLTAGE_UNIT":7},"LATITUDE":32.024723,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 15:30:47.376 [main] DEBUG c.gdcp.dqi.datasource.DataSourceMgr - 从redis获取实时数据为，devcode:[LB9KB8KGXGENJL227], data:[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.89944399999999,"STATE":0,"ISNS":0,"LATITUDE":32.024723,"ISEW":0},"DATATAG":"RTINFO","CELL_NUM":1,"VOLTAGE":598,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.89944399999999,"MILEAGE":42570,"FLOW":0,"SPEED":0,"GEAR_IS_BRAKE":0,"GEAR_VALUE":0,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523518222838,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":220,"MOTOR_TORQUE":0,"MOTOR_FLOW":-1,"MOTOR_ID":1,"CTRL_TEMPERATURE":53,"MOTOR_RPM":0,"MOTOR_TEMPERATURE":46,"MOTOR_STATE":3}]},"DC_STATE":0,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,24,24,24,24,24,24,22,24,24,24,22,24,24,24,23,24,24,22,22,24,24,22,22,24,24,23,22,24,24,24,24,24,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":335479,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":598.2,"V_STATE":2,"SOC":82,"MILEAGE":42570,"BRAKE_STATE":0,"AP_TRAVEL":0,"FLOW":0,"SPEED":0,"RESISTOR":727,"GEAR_IS_BRAKE":0,"GEAR_VALUE":0,"GEAR_IS_DRIVE":0,"DC_STATE":0,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":2,"SOC":82,"LOGIN_SN":4,"TIME":1523518220000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":598.2,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.319,3.321,3.323,3.322,3.322,3.322,3.322,3.322,3.321,3.324,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.324,3.324,3.325,3.325,3.325,3.327,3.326,3.325,3.324,3.322,3.323,3.324,3.324,3.324,3.323,3.323,3.324,3.322,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.323,3.323,3.324,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.325,3.324,3.323,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.322,3.322,3.324,3.324,3.323,3.324,3.323,3.324,3.324,3.324,3.323,3.325,3.325,3.326,3.327,3.326,3.327,3.326,3.325,3.321,3.322,3.322,3.323,3.323,3.323,3.322,3.323,3.322,3.322,3.322,3.324,3.324,3.324,3.324,3.324,3.324,3.324,3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.321,3.321,3.322,3.321,3.322,3.322,3.322,3.322,3.322,3.321,3.322,3.322,3.322,3.323,3.322,3.322,3.323,3.322,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.321,3.323,3.322,3.322,3.322,3.323,3.322,3.323,3.322,3.321,3.321,3.321,3.321,3.321,3.322,3.321,3.321,3.321]}],"CELL_ID":1,"UNITS":180,"FLOW":0}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.321,"MAX_UNIT_VOLTAGE":3.327,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":11,"MIN_UNIT_TEMPERATURE":22,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":6,"MAX_VOLTAGE_UNIT":6,"MIN_VOLTAGE_UNIT":7},"LATITUDE":32.024723,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 15:30:47.728 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865773] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:30:47.729 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:31:17.728 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865773] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:31:17.729 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:31:47.728 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865773] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:31:47.729 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:32:17.728 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865773] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:32:17.729 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:32:47.729 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865773] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:32:47.730 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:48:18.109 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:48:18.111 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:48:18.112 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:48:18.112 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:48:18.112 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:48:18.112 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:48:18.113 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:48:18.116 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:48:18.118 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:48:18.119 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:48:18.119 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:48:18.120 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:48:24.932 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:48:24.934 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:48:24.934 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:48:24.934 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:48:24.935 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:48:24.935 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:48:24.936 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:48:24.940 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:48:24.944 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:48:24.945 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:48:24.946 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:48:24.946 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:50:14.331 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:50:14.334 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:50:14.334 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:50:14.335 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:50:14.335 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:50:14.335 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:50:14.336 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:50:14.338 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:50:14.341 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:50:14.342 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:50:14.343 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:50:14.343 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:55:54.617 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 15:55:54.619 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 15:55:54.620 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 15:55:54.620 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 15:55:54.620 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 15:55:54.620 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 15:55:54.621 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 15:55:54.624 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 15:55:54.628 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 15:55:54.628 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 15:55:54.629 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 15:55:54.629 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 15:55:57.378 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2018-04-12 15:56:06.524 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [C:\Users\longxn\git\simpletest\conf\zookeeper.properties]
+2018-04-12 15:56:06.529 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2018-04-12 15:56:06.535 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[120.78.221.1] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2018-04-12 15:56:08.845 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:56:10.848 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:56:12.851 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:56:14.852 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 15:56:16.854 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2018-04-12 15:56:16.857 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2018-04-12 15:56:16.867 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2018-04-12 15:56:16.887 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[9bcc3d11-be6b-4162-a68e-225aa0a8f253], delay[10], period[30]
+2018-04-12 15:56:16.888 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2018-04-12 15:56:16.895 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:56:16.897 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2018-04-12 15:56:16.928 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2018-04-12 15:56:16.960 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2018-04-12 15:56:17.407 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2018-04-12 15:56:17.539 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 15:56:17.670 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 15:56:17.671 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2018-04-12 15:56:17.671 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[120.78.221.1] port[2181] timeout[30000]
+2018-04-12 15:56:17.672 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event getType [None]
+2018-04-12 15:56:20.540 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2018-04-12 15:56:20.547 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[66e9ed7c-4c13-4c89-8200-9a717ed07b31], delay[10], period[5]
+2018-04-12 15:56:20.562 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 申请数据源  LB9KB8KGXGENJL227 1002
+2018-04-12 15:56:25.959 [main] ERROR c.gdcp.dqi.datasource.DataSourceMgr - 解析[LB9KB8KGXGENJL227]的redis数据为[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.85011999999999,"STATE":0,"ISNS":0,"LATITUDE":32.045798999999995,"ISEW":0},"DATATAG":"GPSDATA","CELL_NUM":1,"VOLTAGE":599,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.85011999999999,"MILEAGE":42577,"FLOW":-66,"SPEED":27,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523519745928,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":609,"MOTOR_TORQUE":-501,"MOTOR_FLOW":-66,"MOTOR_ID":1,"CTRL_TEMPERATURE":61,"MOTOR_RPM":937,"MOTOR_TEMPERATURE":59,"MOTOR_STATE":2}]},"DC_STATE":1,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,24,24,24,25,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,25,24,24,24,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":22,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":599.4,"V_STATE":1,"SOC":80,"MILEAGE":42577,"BRAKE_STATE":28,"AP_TRAVEL":0,"FLOW":-66.6,"SPEED":27,"RESISTOR":29911,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"DC_STATE":1,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":1,"SOC":80,"LOGIN_SN":5,"TIME":1523519745000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":599.4,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.269,3.267,3.271,3.269,3.269,3.267,3.258,3.269,3.269,3.267,3.27,3.267,3.259,3.27,3.268,3.269,3.27,3.267,3.302,3.301,3.303,3.301,3.302,3.302,3.302,3.303,3.308,3.307,3.306,3.309,3.31,3.308,3.309,3.308,3.308,3.307,3.309,3.309,3.309,3.31,3.31,3.31,3.311,3.31,3.309,3.309,3.31,3.311,3.314,3.311,3.311,3.311,3.311,3.311,3.315,3.317,3.319,3.317,3.322,3.321,3.327,3.321,3.322,3.32,3.319,3.319,3.325,3.319,3.321,3.319,3.32,3.318,3.323,3.324,3.325,3.324,3.325,3.323,3.331,3.323,3.323,3.322,3.322,3.324,3.33,3.324,3.325,3.322,3.327,3.323,3.327,3.329,3.329,3.33,3.327,3.329,3.334,3.328,3.327,3.327,3.329,3.332,3.336,3.331,3.33,3.331,3.329,3.33,3.325,3.328,3.328,3.328,3.328,3.327,3.335,3.327,3.328,3.327,3.327,3.329,3.334,3.329,3.327,3.329,3.328,3.328,3.33,3.329,3.331,3.33,3.272,3.271,3.263,3.272,3.331,3.329,3.33,3.331,3.338,3.33,3.332,3.331,3.332,3.327,3.268,3.27,3.269,3.27,3.271,3.269,3.258,3.27,3.27,3.27,3.268,3.267,3.256,3.271,3.266,3.268,3.268,3.271,3.269,3.271,3.27,3.272,3.269,3.27,3.259,3.271,3.269,3.267,3.267,3.267,3.257,3.269,3.27,3.27,3.269,3.265]}],"CELL_ID":1,"UNITS":180,"FLOW":-66.6}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.263,"MAX_UNIT_VOLTAGE":3.339,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":5,"MIN_UNIT_TEMPERATURE":24,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":2,"MAX_VOLTAGE_UNIT":9,"MIN_VOLTAGE_UNIT":8},"LATITUDE":32.045798999999995,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 15:56:25.960 [main] DEBUG c.gdcp.dqi.datasource.DataSourceMgr - 从redis获取实时数据为，devcode:[LB9KB8KGXGENJL227], data:[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.85011999999999,"STATE":0,"ISNS":0,"LATITUDE":32.045798999999995,"ISEW":0},"DATATAG":"GPSDATA","CELL_NUM":1,"VOLTAGE":599,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.85011999999999,"MILEAGE":42577,"FLOW":-66,"SPEED":27,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523519745928,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":609,"MOTOR_TORQUE":-501,"MOTOR_FLOW":-66,"MOTOR_ID":1,"CTRL_TEMPERATURE":61,"MOTOR_RPM":937,"MOTOR_TEMPERATURE":59,"MOTOR_STATE":2}]},"DC_STATE":1,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,24,24,24,25,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,25,24,24,24,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":22,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":599.4,"V_STATE":1,"SOC":80,"MILEAGE":42577,"BRAKE_STATE":28,"AP_TRAVEL":0,"FLOW":-66.6,"SPEED":27,"RESISTOR":29911,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"DC_STATE":1,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":1,"SOC":80,"LOGIN_SN":5,"TIME":1523519745000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":599.4,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.269,3.267,3.271,3.269,3.269,3.267,3.258,3.269,3.269,3.267,3.27,3.267,3.259,3.27,3.268,3.269,3.27,3.267,3.302,3.301,3.303,3.301,3.302,3.302,3.302,3.303,3.308,3.307,3.306,3.309,3.31,3.308,3.309,3.308,3.308,3.307,3.309,3.309,3.309,3.31,3.31,3.31,3.311,3.31,3.309,3.309,3.31,3.311,3.314,3.311,3.311,3.311,3.311,3.311,3.315,3.317,3.319,3.317,3.322,3.321,3.327,3.321,3.322,3.32,3.319,3.319,3.325,3.319,3.321,3.319,3.32,3.318,3.323,3.324,3.325,3.324,3.325,3.323,3.331,3.323,3.323,3.322,3.322,3.324,3.33,3.324,3.325,3.322,3.327,3.323,3.327,3.329,3.329,3.33,3.327,3.329,3.334,3.328,3.327,3.327,3.329,3.332,3.336,3.331,3.33,3.331,3.329,3.33,3.325,3.328,3.328,3.328,3.328,3.327,3.335,3.327,3.328,3.327,3.327,3.329,3.334,3.329,3.327,3.329,3.328,3.328,3.33,3.329,3.331,3.33,3.272,3.271,3.263,3.272,3.331,3.329,3.33,3.331,3.338,3.33,3.332,3.331,3.332,3.327,3.268,3.27,3.269,3.27,3.271,3.269,3.258,3.27,3.27,3.27,3.268,3.267,3.256,3.271,3.266,3.268,3.268,3.271,3.269,3.271,3.27,3.272,3.269,3.27,3.259,3.271,3.269,3.267,3.267,3.267,3.257,3.269,3.27,3.27,3.269,3.265]}],"CELL_ID":1,"UNITS":180,"FLOW":-66.6}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.263,"MAX_UNIT_VOLTAGE":3.339,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":5,"MIN_UNIT_TEMPERATURE":24,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":2,"MAX_VOLTAGE_UNIT":9,"MIN_VOLTAGE_UNIT":8},"LATITUDE":32.045798999999995,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 15:56:25.992 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 申请数据源  SC_lxn
+2018-04-12 15:56:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:56:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:56:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:56:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:57:06.346 [main] INFO  c.g.c.s.a.ServerTagPropertyMgr - 服务管理中没有数据 serverTag[SC_test] propertyTag[SC_OBDDEV_CMD]
+2018-04-12 15:57:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:57:26.888 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:57:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:57:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:58:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:58:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:58:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:58:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:59:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:59:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 15:59:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 15:59:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:00:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:00:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:00:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:00:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:01:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:01:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:01:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:01:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:02:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:02:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:02:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:02:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:03:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:03:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:03:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:03:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:04:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:04:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:04:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:04:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:05:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:05:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:05:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:05:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:06:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:06:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:06:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:06:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:07:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:07:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:07:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:07:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:08:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:08:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:08:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:08:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:09:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:09:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:09:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:09:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:10:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:10:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:10:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:10:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:11:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:11:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:11:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:11:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:12:26.519 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-04-12 16:12:26.522 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-04-12 16:12:26.523 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-04-12 16:12:26.524 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-04-12 16:12:26.524 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-04-12 16:12:26.524 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-04-12 16:12:26.525 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-04-12 16:12:26.528 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-04-12 16:12:26.532 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-04-12 16:12:26.533 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-04-12 16:12:26.534 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-04-12 16:12:26.535 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-04-12 16:12:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:12:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:12:29.424 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 
+2018-04-12 16:12:38.488 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 开始解析conf/zookeeper.properties [C:\Users\longxn\git\simpletest\conf\zookeeper.properties]
+2018-04-12 16:12:38.489 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/zookeeper.properties
+2018-04-12 16:12:38.491 [main] INFO  c.g.c.zookeeper.ZooKeeperConfigMgr - 解析conf/zookeeper.properties完毕，ip[120.78.221.1] port[2181] sessionTimeout[30000] subscribeLayer[ONE_LAYER] subscribeRootPath[/subscribe] serverRootPath[/server]
+2018-04-12 16:12:40.650 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 16:12:42.651 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 16:12:44.651 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 16:12:46.652 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTING]
+2018-04-12 16:12:48.652 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - zk.getState [CONNECTED]
+2018-04-12 16:12:48.653 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - commitSchedulerPrintMessage start..................
+2018-04-12 16:12:48.655 [main] INFO  com.gdcp.common.util.TimeScheduler - Start time scheduler, tpNum[2]
+2018-04-12 16:12:48.663 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[09d48454-8cde-489e-a854-cc64db29cbc4], delay[10], period[30]
+2018-04-12 16:12:48.664 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event.getState [SyncConnected]
+2018-04-12 16:12:48.666 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 注册ZookeeperListener成功 [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:12:48.666 [main] INFO  com.gdcp.core.server.ServerListener - changePath [/server]
+2018-04-12 16:12:48.699 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/subscribe]
+2018-04-12 16:12:48.733 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 已经存在节点[/server]
+2018-04-12 16:12:49.042 [main] INFO  com.gdcp.common.util.PropertiesUtil - 加载文件 conf/server.properties
+2018-04-12 16:12:49.163 [main] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 16:12:49.275 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - watch all ok watchpath[/server]
+2018-04-12 16:12:49.276 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - isFirstDoSomeThingOk [true]
+2018-04-12 16:12:49.277 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - 初始化zk ok ip[120.78.221.1] port[2181] timeout[30000]
+2018-04-12 16:12:49.277 [main-EventThread] INFO  c.gdcp.common.zookeeper.ZooKeeperMgr - event getType [None]
+2018-04-12 16:12:52.165 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 初始化数据源管理器 ok 
+2018-04-12 16:12:52.168 [main] INFO  com.gdcp.common.util.TimeScheduler - Register scheduled task successfully, taskHandleKey[b998a320-8814-4282-8937-1cc0c3e0395e], delay[10], period[5]
+2018-04-12 16:12:52.172 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 申请数据源  LB9KB8KGXGENJL227 1002
+2018-04-12 16:12:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:12:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:12:58.439 [main] ERROR c.gdcp.dqi.datasource.DataSourceMgr - 解析[LB9KB8KGXGENJL227]的redis数据为[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.764343,"STATE":0,"ISNS":0,"LATITUDE":32.042418999999995,"ISEW":0},"DATATAG":"GPSDATA","CELL_NUM":1,"VOLTAGE":590,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.764343,"MILEAGE":42586,"FLOW":56,"SPEED":55,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523520762679,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":599,"MOTOR_TORQUE":159,"MOTOR_FLOW":55,"MOTOR_ID":1,"CTRL_TEMPERATURE":55,"MOTOR_RPM":1900,"MOTOR_TEMPERATURE":52,"MOTOR_STATE":1}]},"DC_STATE":1,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,25,24,25,25,24,24,24,25,24,24,24,24,24,24,24,25,24,24,24,24,24,24,24,24,24,24,24,24,25,25,24,25,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":28564,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":590.9,"V_STATE":3,"SOC":76,"MILEAGE":42586,"BRAKE_STATE":0,"AP_TRAVEL":22,"FLOW":56.4,"SPEED":55,"RESISTOR":33601,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"DC_STATE":1,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":3,"SOC":76,"LOGIN_SN":6,"TIME":1523520762000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":590.9,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.309,3.31,3.311,3.311,3.311,3.311,3.312,3.311,3.31,3.309,3.311,3.311,3.314,3.311,3.311,3.31,3.311,3.31,3.305,3.305,3.306,3.303,3.305,3.305,3.305,3.305,3.306,3.304,3.303,3.306,3.306,3.306,3.305,3.306,3.306,3.305,3.294,3.295,3.295,3.295,3.294,3.295,3.291,3.295,3.295,3.294,3.294,3.296,3.293,3.295,3.295,3.296,3.295,3.295,3.291,3.295,3.294,3.295,3.294,3.295,3.291,3.294,3.294,3.293,3.291,3.291,3.287,3.293,3.293,3.292,3.291,3.291,3.29,3.291,3.29,3.291,3.292,3.289,3.287,3.291,3.291,3.289,3.291,3.29,3.286,3.291,3.291,3.291,3.29,3.29,3.283,3.284,3.284,3.284,3.284,3.284,3.28,3.285,3.284,3.284,3.287,3.286,3.282,3.288,3.287,3.287,3.287,3.286,3.28,3.284,3.284,3.285,3.283,3.283,3.278,3.284,3.283,3.283,3.283,3.284,3.277,3.282,3.282,3.282,3.283,3.282,3.282,3.28,3.285,3.284,3.283,3.283,3.278,3.284,3.282,3.282,3.284,3.285,3.278,3.285,3.283,3.284,3.284,3.286,3.281,3.284,3.284,3.283,3.284,3.283,3.279,3.284,3.283,3.281,3.282,3.281,3.275,3.283,3.281,3.279,3.282,3.281,3.31,3.311,3.311,3.312,3.312,3.312,3.314,3.311,3.311,3.311,3.309,3.311,3.311,3.31,3.31,3.31,3.313,3.312]}],"CELL_ID":1,"UNITS":180,"FLOW":56.4}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.275,"MAX_UNIT_VOLTAGE":3.292,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":6,"MIN_UNIT_TEMPERATURE":24,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":4,"MAX_VOLTAGE_UNIT":4,"MIN_VOLTAGE_UNIT":1},"LATITUDE":32.042418999999995,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 16:12:58.440 [main] DEBUG c.gdcp.dqi.datasource.DataSourceMgr - 从redis获取实时数据为，devcode:[LB9KB8KGXGENJL227], data:[{"LOCATION":{"ISVALID":0,"LONGITUDE":120.764343,"STATE":0,"ISNS":0,"LATITUDE":32.042418999999995,"ISEW":0},"DATATAG":"GPSDATA","CELL_NUM":1,"VOLTAGE":590,"ALARM":{"ALARM_MASK_SOC_SALTUS":"1","ALARM_MASK_INSULATION":"0","ALARM_MASK_SINGLE_CELL_OVER_VOLTAGE":"0","OTHER_ALARM_LIST":[],"ALARM_MASK_ENERGY_STORAGE_UNDER_VOLTAGE":"0","MAX_ALARM_LEVEL":0,"ALARM_MASK_DCDC_TEMP":"0","ALARM_MASK_DCDC_STATE":"0","ALARM_MASK_SOC_LOW":"0","ALARM_MASK_ENERGY_STORAGE_OVER_CHARGE":"0","ALARM_MASK_ELECTRIC_MOTOR_TEMP":"0","ALARM_MASK_TEMP_DIFF":"0","ALARM_MASK_CELL_HIGH_TEMP":"0","ALARM_MASK_SOC_HIGH":"0","ALARM_MASK_BRAKE":"0","ALARM_MASK_ENERGY_STORAGE_OVER_VOLTAGE":"0","ELECTRICMOTOR_ALARM_LIST":[],"ALARM_MASK_HVIL_STATE":"0","ALARM_MASK":"00000000000000000000001100000000","ELECTRICMOTOR_ALARM_NUM":0,"MOTOR_ALARM_LIST":[],"ALARM_MASK_CONTROL_TEMP":"0","ALARM_MASK_CELL_UNMATCHED":"1","ALARM_MASK_SINGLE_CELL_UNDER_VOLTAGE":"0","MOTOR_ALARM_NUM":0,"ALARM_MASK_SINGLE_CELL_UNIFORMITY":"0","CELL_ALARM_LIST":[],"OTHER_ALARM_NUM":0,"CELL_ALARM_NUM":0},"LONGITUDE":120.764343,"MILEAGE":42586,"FLOW":56,"SPEED":55,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"CELL_CODE":[""],"RECVTIME":1523520762679,"ELECTRIC_MOTOR":{"MOTOR_NUM":1,"MOTOR_INFO":[{"MOTOR_VOLTAGE":599,"MOTOR_TORQUE":159,"MOTOR_FLOW":55,"MOTOR_ID":1,"CTRL_TEMPERATURE":55,"MOTOR_RPM":1900,"MOTOR_TEMPERATURE":52,"MOTOR_STATE":1}]},"DC_STATE":1,"CELL_TEMP":{"CELL_NUM":1,"CELL_TEMP_LIST":[{"DETECTOR_NUM":40,"DETECTOR_VALUE_LIST":[25,25,25,25,25,24,25,25,24,24,24,25,24,24,24,24,24,24,24,25,24,24,24,24,24,24,24,24,24,24,24,24,25,25,24,25,25,25,25,25],"CELL_ID":1}]},"SN":0,"CONNECT_SN":28564,"CHARGE_STATE":3,"ICCID":"898607b0101770446458","DEVCODE":"LB9KB8KGXGENJL227","VEHICLE":{"VOLTAGE":590.9,"V_STATE":3,"SOC":76,"MILEAGE":42586,"BRAKE_STATE":0,"AP_TRAVEL":22,"FLOW":56.4,"SPEED":55,"RESISTOR":33601,"GEAR_IS_BRAKE":0,"GEAR_VALUE":4,"GEAR_IS_DRIVE":0,"DC_STATE":1,"RUN_MODE":1,"CHARGE_STATE":3},"V_STATE":3,"SOC":76,"LOGIN_SN":6,"TIME":1523520762000,"CELL_VOLTAGE":{"CELL_NUM":1,"CELL_VOLTAGE_LIST":[{"VOLTAGE":590.9,"CELL_FRAME_INFO_LIST":[{"CURRENT_ID":1,"CURRENT_UNITS_NUM":180,"UNITS_VOLTAGE_LIST":[3.309,3.31,3.311,3.311,3.311,3.311,3.312,3.311,3.31,3.309,3.311,3.311,3.314,3.311,3.311,3.31,3.311,3.31,3.305,3.305,3.306,3.303,3.305,3.305,3.305,3.305,3.306,3.304,3.303,3.306,3.306,3.306,3.305,3.306,3.306,3.305,3.294,3.295,3.295,3.295,3.294,3.295,3.291,3.295,3.295,3.294,3.294,3.296,3.293,3.295,3.295,3.296,3.295,3.295,3.291,3.295,3.294,3.295,3.294,3.295,3.291,3.294,3.294,3.293,3.291,3.291,3.287,3.293,3.293,3.292,3.291,3.291,3.29,3.291,3.29,3.291,3.292,3.289,3.287,3.291,3.291,3.289,3.291,3.29,3.286,3.291,3.291,3.291,3.29,3.29,3.283,3.284,3.284,3.284,3.284,3.284,3.28,3.285,3.284,3.284,3.287,3.286,3.282,3.288,3.287,3.287,3.287,3.286,3.28,3.284,3.284,3.285,3.283,3.283,3.278,3.284,3.283,3.283,3.283,3.284,3.277,3.282,3.282,3.282,3.283,3.282,3.282,3.28,3.285,3.284,3.283,3.283,3.278,3.284,3.282,3.282,3.284,3.285,3.278,3.285,3.283,3.284,3.284,3.286,3.281,3.284,3.284,3.283,3.284,3.283,3.279,3.284,3.283,3.281,3.282,3.281,3.275,3.283,3.281,3.279,3.282,3.281,3.31,3.311,3.311,3.312,3.312,3.312,3.314,3.311,3.311,3.311,3.309,3.311,3.311,3.31,3.31,3.31,3.313,3.312]}],"CELL_ID":1,"UNITS":180,"FLOW":56.4}]},"ONLINE":true,"CELL_CODE_LENGTH":0,"EXTREME_VALUE":{"MIN_UNIT_VOLTAGE":3.275,"MAX_UNIT_VOLTAGE":3.292,"MAX_TEMPERATURE_UNIT":2,"MIN_TEMPERATURE_UNIT":6,"MIN_UNIT_TEMPERATURE":24,"MAX_UNIT_TEMPERATURE":25,"MIN_VOLTAGE_CELL":1,"MAX_TEMPERATURE_CELL":1,"MAX_VOLTAGE_CELL":1,"MIN_TEMPERATURE_CELL":4,"MAX_VOLTAGE_UNIT":4,"MIN_VOLTAGE_UNIT":1},"LATITUDE":32.042418999999995,"RUN_MODE":1,"CONNECTOR":"SC_lxn"}]
+2018-04-12 16:12:58.475 [main] INFO  c.gdcp.dqi.datasource.DataSourceMgr - 申请数据源  SC_lxn
+2018-04-12 16:12:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:12:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:13:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:13:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:13:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:13:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:13:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:13:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:13:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:13:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:14:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:14:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:14:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:14:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:14:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:14:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:14:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:14:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:15:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:15:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:15:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:15:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:15:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:15:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:15:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:15:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:16:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:16:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:16:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:16:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:16:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:16:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:16:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:16:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:17:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:17:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:17:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:17:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:17:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:17:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:17:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:17:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:18:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:18:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:18:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:18:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:18:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:18:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:18:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:18:58.666 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:19:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:19:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:19:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:19:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:19:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:19:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:19:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:19:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:20:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:20:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:20:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:20:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:20:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:20:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:20:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:20:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:21:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:21:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:21:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:21:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:21:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:21:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:21:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:21:58.666 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:22:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:22:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:22:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:22:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:22:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:22:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:22:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:22:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:23:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:23:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:23:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:23:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:23:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:23:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:23:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:23:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:24:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:24:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:24:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:24:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:24:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:24:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:24:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:24:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:25:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:25:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:25:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:25:28.666 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:25:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:25:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:25:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:25:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:26:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:26:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:26:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:26:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:26:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:26:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:26:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:26:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:27:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:27:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:27:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:27:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:27:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:27:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:27:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:27:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:28:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:28:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:28:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:28:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:28:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:28:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:28:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:28:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:29:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:29:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:29:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:29:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:29:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:29:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:29:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:29:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:30:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:30:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:30:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:30:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:30:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:30:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:30:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:30:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:31:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:31:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:31:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:31:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:31:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:31:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:31:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:31:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:32:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:32:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:32:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:32:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:32:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:32:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:32:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:32:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:33:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:33:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:33:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:33:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:33:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:33:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:33:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:33:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:34:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:34:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:34:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:34:28.666 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:34:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:34:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:34:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:34:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:35:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:35:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:35:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:35:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:35:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:35:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:35:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:35:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:36:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:36:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:36:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:36:28.666 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:36:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:36:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:36:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:36:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:37:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:37:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:37:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:37:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:37:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:37:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:37:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:37:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:38:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:38:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:38:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:38:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:38:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:38:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:38:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:38:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:39:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:39:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:39:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:39:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:39:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:39:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:39:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:39:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:40:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:40:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:40:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:40:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:40:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:40:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:40:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:40:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:41:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:41:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:41:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:41:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:41:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:41:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:41:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:41:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:42:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:42:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:42:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:42:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:42:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:42:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:42:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:42:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:43:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:43:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:43:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:43:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:43:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:43:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:43:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:43:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:44:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:44:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:44:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:44:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:44:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:44:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:44:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:44:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:45:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:45:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:45:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:45:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:45:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:45:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:45:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:45:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:46:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:46:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:46:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:46:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:46:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:46:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:46:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:46:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:47:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:47:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:47:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:47:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:47:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:47:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:47:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:47:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:48:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:48:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:48:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:48:28.666 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:48:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:48:56.888 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:48:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:48:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:49:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:49:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:49:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:49:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:49:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:49:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:49:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:49:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:50:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:50:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:50:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:50:28.666 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:50:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:50:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:50:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:50:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:51:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:51:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:51:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:51:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:51:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:51:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:51:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:51:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:52:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:52:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:52:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:52:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:52:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:52:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:52:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:52:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:53:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:53:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:53:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:53:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:53:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:53:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:53:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:53:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:54:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:54:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:54:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:54:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:54:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:54:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:54:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:54:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:55:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:55:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:55:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:55:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:55:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:55:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:55:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:55:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:56:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:56:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:56:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:56:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:56:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:56:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:56:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:56:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:57:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:57:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:57:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:57:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:57:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:57:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:57:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:57:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:58:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:58:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:58:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:58:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:58:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:58:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:58:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:58:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:59:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:59:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:59:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:59:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:59:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:59:56.888 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 16:59:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 16:59:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:00:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:00:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:00:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:00:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:00:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:00:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:00:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:00:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:01:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:01:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:01:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:01:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:01:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:01:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:01:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:01:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:02:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:02:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:02:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:02:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:02:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:02:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:02:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:02:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:03:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:03:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:03:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:03:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:03:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:03:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:03:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:03:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:04:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:04:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:04:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:04:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:04:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:04:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:04:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:04:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:05:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:05:26.888 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:05:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:05:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:05:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:05:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:05:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:05:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:06:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:06:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:06:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:06:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:06:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:06:56.888 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:06:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:06:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:07:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:07:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:07:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:07:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:07:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:07:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:07:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:07:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:08:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:08:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:08:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:08:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:08:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:08:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:08:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:08:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:09:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:09:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:09:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:09:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:09:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:09:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:09:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:09:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:10:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:10:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:10:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:10:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:10:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:10:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:10:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:10:58.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:11:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:11:26.888 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:11:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:11:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:11:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:11:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:11:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:11:58.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:12:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:12:26.888 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:12:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:12:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:12:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:12:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:12:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:12:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:13:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:13:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:13:28.663 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:13:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:13:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:13:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:13:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:13:58.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:14:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:14:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:14:28.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:14:28.666 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:14:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:14:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:14:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:14:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:15:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:15:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:15:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:15:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:15:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:15:56.888 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:15:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:15:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:16:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:16:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:16:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:16:28.665 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:16:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:16:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:16:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:16:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:17:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:17:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:17:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:17:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:17:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:17:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:17:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:17:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:18:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:18:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:18:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:18:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:18:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:18:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:18:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:18:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:19:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:19:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:19:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:19:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:19:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:19:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:19:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:19:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:20:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:20:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:20:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:20:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:20:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:20:56.888 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:20:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:20:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:21:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:21:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:21:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:21:28.664 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:21:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:21:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:21:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:21:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:22:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:22:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:22:28.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:22:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:22:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:22:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:22:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:22:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:23:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:23:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:23:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:23:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:23:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:23:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:23:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:23:58.665 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:24:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:24:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:24:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:24:28.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:24:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:24:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:24:58.663 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865777] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:24:58.664 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:25:01.509 [main] INFO  c.g.c.s.a.ServerTagPropertyMgr - 服务管理中没有数据 serverTag[SC_test] propertyTag[SC_OBDDEV_CMD]
+2018-04-12 17:25:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:25:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:25:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:25:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:26:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:26:26.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:26:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:26:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:27:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:27:26.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:27:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:27:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:28:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:28:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:28:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:28:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:29:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:29:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:29:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:29:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:30:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:30:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:30:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:30:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:31:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:31:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:31:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:31:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:32:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:32:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:32:56.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:32:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:33:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:33:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:33:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:33:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:34:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:34:26.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:34:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:34:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:35:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:35:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:35:56.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:35:56.887 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:36:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:36:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:36:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:36:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:37:26.885 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:37:26.886 [pool-1-thread-2] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:37:56.885 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:37:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:38:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:38:26.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-04-12 17:38:56.886 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - zk info SessionId[99828151585865775] SessionTimeout[30000] State[CONNECTED]
+2018-04-12 17:38:56.887 [pool-1-thread-1] DEBUG c.gdcp.common.zookeeper.ZooKeeperMgr - listener [ZookeeperListener [listenerPath=/server]]
+2018-05-23 09:26:55.185 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:26:55.204 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:26:55.205 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:26:55.205 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:26:55.205 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:26:55.205 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:26:55.206 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:26:55.210 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:26:55.213 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:26:55.214 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:26:55.214 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:26:55.215 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:29:31.630 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:29:31.632 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:29:31.632 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:29:31.633 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:29:31.633 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:29:31.633 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:29:31.633 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:29:31.636 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:29:31.639 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:29:31.639 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:29:31.640 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:29:31.640 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:42:37.789 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:42:37.791 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:42:37.791 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:42:37.792 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:42:37.792 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:42:37.792 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:42:37.793 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:42:37.796 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:42:37.799 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:42:37.799 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:42:37.800 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:42:37.800 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:43:10.663 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:43:10.665 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:43:10.666 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:43:10.667 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:43:10.667 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:43:10.667 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:43:10.667 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:43:10.670 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:43:10.673 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:43:10.673 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:43:10.674 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:43:10.674 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:45:20.321 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:45:20.322 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:45:20.323 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:45:20.324 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:45:20.324 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:45:20.324 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:45:20.325 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:45:20.329 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:45:20.331 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:45:20.332 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:45:20.332 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:45:20.333 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:47:27.803 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:47:27.805 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:47:27.806 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:47:27.806 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:47:27.806 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:47:27.807 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:47:27.807 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:47:27.810 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:47:27.813 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:47:27.813 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:47:27.813 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:47:27.814 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:48:00.435 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:48:00.437 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:48:00.437 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:48:00.438 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:48:00.438 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:48:00.438 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:48:00.439 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:48:00.441 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:48:00.444 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:48:00.445 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:48:00.445 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:48:00.446 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:48:47.814 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:48:47.816 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:48:47.817 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:48:47.818 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:48:47.818 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:48:47.818 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:48:47.818 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:48:47.821 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:48:47.824 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:48:47.824 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:48:47.825 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:48:47.826 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:50:57.069 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:50:57.071 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:50:57.072 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:50:57.072 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:50:57.072 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:50:57.072 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:50:57.073 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:50:57.076 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:50:57.079 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:50:57.080 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:50:57.081 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:50:57.081 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:52:24.424 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:52:24.425 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:52:24.426 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:52:24.426 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:52:24.427 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:52:24.427 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:52:24.427 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:52:24.430 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:52:24.433 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:52:24.434 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:52:24.434 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:52:24.434 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:52:30.356 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:52:30.358 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:52:30.358 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:52:30.359 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:52:30.359 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:52:30.359 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:52:30.359 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:52:30.362 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:52:30.365 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:52:30.365 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:52:30.366 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:52:30.366 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:52:43.990 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:52:43.992 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:52:43.992 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:52:43.993 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:52:43.993 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:52:43.993 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:52:43.993 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:52:43.996 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:52:43.999 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:52:43.999 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:52:44.000 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:52:44.000 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:56:55.497 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:56:55.499 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:56:55.499 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:56:55.500 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:56:55.500 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:56:55.501 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:56:55.501 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:56:55.504 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:56:55.507 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:56:55.508 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:56:55.508 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:56:55.509 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:59:12.206 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:59:12.208 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:59:12.209 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:59:12.209 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:59:12.209 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:59:12.209 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:59:12.210 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:59:12.212 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:59:12.215 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:59:12.215 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:59:12.216 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:59:12.216 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 09:59:22.430 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 09:59:22.432 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 09:59:22.432 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 09:59:22.433 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 09:59:22.433 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 09:59:22.433 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 09:59:22.433 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 09:59:22.436 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 09:59:22.439 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 09:59:22.440 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 09:59:22.440 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 09:59:22.441 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 10:02:36.979 [main] INFO  com.gdcp.common.config.SysProperty - 加载系统配置......
+2018-05-23 10:02:36.981 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/Users/longxn/git/simpletest/target/classes/config/syscfg.properties]
+2018-05-23 10:02:36.982 [main] INFO  com.gdcp.common.config.SysProperty - Loading properties file from URL [file:/C:/vtx/workspace/VTX-DQI/bin/config/syscfg.properties]
+2018-05-23 10:02:36.982 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxTotal 旧值：100新值：100
+2018-05-23 10:02:36.982 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.minIdle 旧值：20新值：20
+2018-05-23 10:02:36.982 [main] WARN  com.gdcp.common.config.SysProperty - 重复配置：redis.maxIdle 旧值：40新值：40
+2018-05-23 10:02:36.983 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置参数......file:/C:/vtx/workspace/VTX-DQI/bin/app.properties
+2018-05-23 10:02:36.986 [main] INFO  com.gdcp.common.config.SysProperty - 加载用户配置......classpath:config/zsj_dev.properties
+2018-05-23 10:02:36.988 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/mongo.properties
+2018-05-23 10:02:36.989 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/redis.properties
+2018-05-23 10:02:36.989 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/server.properties
+2018-05-23 10:02:36.990 [main] INFO  com.gdcp.common.config.SysProperty - 加载程序配置参数......file:/C:/Users/longxn/git/simpletest/conf/zookeeper.properties
+2018-05-23 10:04:15.072 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisUtils' defined in file [C:\Users\longxn\git\simpletest\target\classes\spring\spring-redis-cluster.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClient] for property 'clusterClient'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClient] for property 'clusterClient': no matching editors or conversion strategy found
+2018-05-23 10:05:44.672 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisUtils' defined in file [C:\Users\longxn\git\simpletest\target\classes\spring\spring-redis-cluster.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClient] for property 'clusterClient'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClient] for property 'clusterClient': no matching editors or conversion strategy found
+2018-05-23 10:07:49.363 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisUtils' defined in file [C:\Users\longxn\git\simpletest\target\classes\spring\spring-redis-cluster.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClientCluster] for property 'clusterClient'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClientCluster] for property 'clusterClient': no matching editors or conversion strategy found
+2018-05-23 10:09:47.439 [main] WARN  o.s.c.s.ClassPathXmlApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'redisUtils' defined in file [C:\Users\longxn\git\simpletest\target\classes\spring\spring-redis-cluster.xml]: Initialization of bean failed; nested exception is org.springframework.beans.ConversionNotSupportedException: Failed to convert property value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClientCluster] for property 'clusterClient'; nested exception is java.lang.IllegalStateException: Cannot convert value of type [nosql.redis.client.RedisClientCluster] to required type [com.gdcp.common.redis.client.RedisClientCluster] for property 'clusterClient': no matching editors or conversion strategy found
