@@ -17,7 +17,6 @@ public class TimeServerHandle extends ChannelInboundHandlerAdapter {
         body.readBytes(bytes);  
         String str = new String(bytes,"Utf-8");  
         System.out.println( "The heartbeat message is:" + str + ",The times is: " + count++ );  
-          
     }  
   
   

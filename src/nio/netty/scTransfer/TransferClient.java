@@ -60,6 +60,7 @@ public class TransferClient {
     }  
   
     public static void main(String[] args) throws Exception {
-        new TransferClient("183.63.187.149", 8888).start();
+        new TransferClient("192.168.3.19", 10000).start();
+//    	new TransferClient("127.0.0.1", 8702).start();
     }  
 }  

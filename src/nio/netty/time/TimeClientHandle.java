@@ -12,7 +12,7 @@ public class TimeClientHandle extends ChannelInboundHandlerAdapter {
   
   
     public TimeClientHandle() {  
-        bytes = ("client msg" + System.getProperty("line.separator"))  
+        bytes = ("client msg")  
                 .getBytes();  
     }  
   
